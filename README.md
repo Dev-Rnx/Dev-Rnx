@@ -2,7 +2,7 @@
 <h2>About me </h2> 
 
 <h4> • I'm a Full Stack Developer</h4>
-<h4> • Currently working at All Nations (.NET)</h4>
+<h4> • Currently working at Takeblip (.NET)</h4>
 <h4> • Bachelor's in Computer Science at UNESA</h4>
 
 <h2>GitHub Analytics </h2>

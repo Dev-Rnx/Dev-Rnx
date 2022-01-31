@@ -47,8 +47,7 @@
   <img align="right"  src="https://c.tenor.com/xBnQvTjyOrgAAAAM/naruto-minato.gif">
 </div>
  
-<div> 
-    <h2>C O N T A C T 📱 M E</h2>
-    <a href = "mailto:rennanareas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div><br> 
+  <h2>CONTACT ME</h2>
     <a href="https://www.linkedin.com/in/rennan-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

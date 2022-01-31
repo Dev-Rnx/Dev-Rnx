@@ -12,13 +12,22 @@
 </div>
 
 <div style="display: inline_block"><br>
-    <h2>H A R D 💪🏽 S K I L L S</H2>
-    <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <h2>FRONT-END</H2>   
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+  
+    <h2>BACK-END</H2>
+    <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+  
+    <h2>UI/UX DESIGNER</H2>
+    <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
+  
+    <h2>VERSION CONTROL</H2>
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+
     <img align="right"  src="https://c.tenor.com/xBnQvTjyOrgAAAAM/naruto-minato.gif">
 </div>
  

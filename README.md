@@ -36,6 +36,8 @@
 <div style="display: inline_block"><br> 
   <h2>VERSION CONTROL</H2>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
   <img align="right"  src="https://c.tenor.com/xBnQvTjyOrgAAAAM/naruto-minato.gif">
 </div>
  

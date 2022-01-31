@@ -50,7 +50,7 @@
 <div><br> 
   <h2>CONTACT ME</h2>
    <a href="https://www.facebook.com/rennan.areas/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/rennan_areas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%D14836?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/rennan_areas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-#B7307A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rennan-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:rennan_areas@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-%230077B5?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
 </div>

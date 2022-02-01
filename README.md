@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Rennan Alves</h1>
+<h1 align="center">Hello World!</h1>
 <h2>About me </h2> 
 
 <h4> • Nerd and Geek</h4>

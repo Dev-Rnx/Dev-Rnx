@@ -3,7 +3,7 @@
 
 <h4> • Nerd and Geek</h4>
 <h4> • Full Stack Developer</h4>
-<h4> • Bachelor's in Computer Science at UNESA (4/8)</h4>
+<h4> • Bachelor's in Computer Science at UNESA (5/8)</h4>
 
 <h2>GitHub Analytics </h2>
 <div>
